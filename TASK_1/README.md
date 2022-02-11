@@ -13,3 +13,7 @@ Expected results:
 |glroxbpoaijspoiasjdb|FALSE (lower case)|
 |GLpboiasjdbpoijOX	 |    FALSE (no R)  |
 
+While debugging and testing:
+
+- The timeout of 2 seconds is very less and hence for testing purpose request you to increase the timeout to 8000 at line 150.
+- As per the task inputs the software is ready to take inputs for every 100ms. Hence, the start time and end time is calculated in every cycle and then printed. 
