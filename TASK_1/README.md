@@ -4,11 +4,12 @@ A random ASCII character is received every 100ms. We need to find a sequence of 
 
 Expected results:
 
-Input	                Output
-GabfdbLbsfbdRbasgOX	  TRUE
-AA4hfghdAAGLROX	      TRUE
-GLRObas832hXbasb	    TRUE
-GLROobiapjso83basb	  FALSE (no X)
-glroxbpoaijspoiasjdb	FALSE (lower case)
-GLpboiasjdbpoijOX	    FALSE (no R)
+|Input	             |   Output         |
+| ------------------ | ---------------- | 
+|GabfdbLbsfbdRbasgOX |	  TRUE          |
+|AA4hfghdAAGLROX	   |   TRUE           |
+|GLRObas832hXbasb	   | TRUE             |
+|GLROobiapjso83basb	 | FALSE (no X)     |
+|glroxbpoaijspoiasjdb|FALSE (lower case)|
+|GLpboiasjdbpoijOX	 |    FALSE (no R)  |
 
